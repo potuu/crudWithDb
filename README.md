@@ -31,7 +31,5 @@ POST /delete/{id}: Belirli kişiyi siler
 Veritabanı
 Varsayılan olarak, uygulama H2 veritabanını kullanır. H2 veritabanını yönetmek ve tarayıcı üzerinden veritabanınızı görüntülemek için aşağıdaki URL'yi kullanabilirsiniz:
 
-bash
-Kodu kopyala
 http://localhost:8080/h2-console
 Bu URL'yi kullanarak H2 konsoluna erişebilir ve veritabanınızı sorgulayabilirsiniz. Varsayılan JDBC URL'si jdbc:h2:mem:testdb'dir.
