@@ -15,34 +15,6 @@ H2 Database (veya başka bir ilişkisel veritabanı)
 Gereksinimler
 Java JDK 11 veya daha yeni bir sürüm
 Maven (veya Gradle) - proje bağımlılıkları için
-Kurulum
-
-Projeyi Klonlayın:
-git clone https://github.com/potuu/crud-with-db.git
-
-Proje Dizini İçine Girin:
-cd crud-with-db
-
-
-Bağımlılıkları Yükleyin:
-Maven kullanıyorsanız:
-mvn install
-
-Gradle kullanıyorsanız:
-gradle build
-
-
-Uygulamayı Başlatın:
-Maven kullanıyorsanız:
-mvn spring-boot:run
-
-Gradle kullanıyorsanız:
-gradle bootRun
-
-Web Tarayıcınızı Açın:
-Tarayıcınızda şu URL'yi ziyaret edin:
-http://localhost:8080
-
 
 Kullanım
 Ana Sayfa: Tüm kişilerin listesini görüntüleyebilir ve arama yapabilirsiniz.
